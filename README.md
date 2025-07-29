@@ -28,6 +28,7 @@ Retail sales are influenced by a variety of factors such as seasonality, holiday
   - `features.csv`: Additional data like temperature, fuel price, markdowns
   - `stores.csv`: Store types and sizes
 
+
 ---
 
 ## 🧪 Key Features & Steps
@@ -70,6 +71,14 @@ XGBoost provided better accuracy and was selected for the final predictions.
 <img width="1280" height="718" alt="Screenshot 2025-07-28 213804" src="https://github.com/user-attachments/assets/eb841993-6a8a-4ff5-8da6-b3dfcae89dad" />
 
 --- 
+
+## 📊 Power BI Dashboard Data Sources
+
+The following datasets were merged and used for dashboard insights:
+- **train.csv** → Weekly sales trends
+- **features.csv** → Holiday impact, fuel prices, markdown strategies
+- **stores.csv** → Store type comparison and regional analysis
+
 
 ## 🔍 Results
 
