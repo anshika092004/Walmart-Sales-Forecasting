@@ -78,6 +78,8 @@ The following datasets were merged and used for dashboard insights:
 - **train.csv** → Weekly sales trends
 - **features.csv** → Holiday impact, fuel prices, markdown strategies
 - **stores.csv** → Store type comparison and regional analysis
+- **walmart_2018_11_06.csv** → Test data used for making predictions.
+- **walmart_actual_vs_pred.csv** → Comparison of actual vs predicted sales for visual insights.
 
 
 ## 🔍 Results
