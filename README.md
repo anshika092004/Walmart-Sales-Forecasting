@@ -1,4 +1,4 @@
-# 🛒 Walmart Sales Forecasting
+# <img width="100" height="100" alt="walmart" src="https://github.com/user-attachments/assets/ce737970-ad88-403d-ab11-b069fc719c04" /> Walmart Sales Forecasting
 
 A machine learning project to forecast weekly sales across Walmart stores using historical data, with interactive insights visualized through Power BI.
 
