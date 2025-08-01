@@ -68,7 +68,8 @@ XGBoost provided better accuracy and was selected for the final predictions.
 
 ## 📊 Dashboard Preview
 
-<img width="1280" height="718" alt="Screenshot 2025-07-28 213804" src="https://github.com/user-attachments/assets/eb841993-6a8a-4ff5-8da6-b3dfcae89dad" />
+<img width="1390" height="747" alt="image" src="https://github.com/user-attachments/assets/2fcd6207-ba0a-4265-8372-a81f23438c97" />
+
 
 --- 
 
